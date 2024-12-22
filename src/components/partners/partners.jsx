@@ -25,7 +25,7 @@ function Partners() {
         options={ 
           {
             rewind: false, pagination: false, width : 1500, height : 90, gap : '1rem', perPage: 8, perMove: 1, autoplay: true, interval: 2000, type: 'loop', speed:3000, extensions: { AutoScroll },
-            autoScroll: {
+            AutoScroll: {
                 speed: 5, // Vitesse du défilement (ajustez selon vos besoins)
                 pauseOnHover: true,
                 pauseOnHover: true,
